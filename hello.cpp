@@ -2,9 +2,8 @@ include<iostream>
 using namespace std:
 int main()
 {
-	string name ;
-	count<<"Whast is your name?";
-	cin>>name;
-	count<<"Hello"<<name<<endl;
+	string firstname ;
+	count<<"whats is your name?";
+	cin>>firstname;
+	count<<"hello " <<firstname<<end|;
 	return 0;
-}
